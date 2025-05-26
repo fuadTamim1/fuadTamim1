@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://app.daily.dev/fuad10"><img src="https://api.daily.dev/devcards/v2/myo7Kh3AaE6tiERBlCw4r.png?type=default&r=28y" width="356" alt="Fuad's Dev Card"/></a>
 <!--
 **fuadTamim1/fuadTamim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
