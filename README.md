@@ -54,3 +54,5 @@
     <img src="https://api.daily.dev/devcards/v2/myo7Kh3AaE6tiERBlCw4r.png?type=default&r=28y" width="356" alt="Fuad's Dev Card"/>
   </a>
 </p>
+
+> " What we choose to remember shapes what we become — memory isn't just storage, it's identity encoded. "
