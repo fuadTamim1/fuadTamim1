@@ -45,14 +45,4 @@
 - 📧 Email: [fuad89573@gmail.com](mailto:fuad89573@gmail.com)
 - 💼 LinkedIn: [Fuad Al-Tamimi](https://www.linkedin.com/in/fuad-tamimi-10b8002b5/)
 
----
-
-### 🧩 My Daily Dev Card
-
-<p align="center">
-  <a href="https://app.daily.dev/fuad10">
-    <img src="https://api.daily.dev/devcards/v2/myo7Kh3AaE6tiERBlCw4r.png?type=default&r=28y" width="356" alt="Fuad's Dev Card"/>
-  </a>
-</p>
-
 > " What we choose to remember shapes what we become — memory isn't just storage, it's identity encoded. "
